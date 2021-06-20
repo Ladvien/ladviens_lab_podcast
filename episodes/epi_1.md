@@ -3,12 +3,50 @@
 ## What we are doing? 
 Attempting to help people think more critically about data, information, and how their wetware interacts with the hardware--that is, how our brains use the data computers provide.
 
-## Content
+# Never Trust a Percentage
 
 ### The Simpson's Paradox
 
 1. Talk about the average life span of humans 400 years ago.
-2. The median wage:
+
+#### UC Berkeley Gender Discrimination 
+
+We are both married, with daughters, so let's do a gut check to the following data.  The following is an excerpt from a well known case of university gender discrimination.  It ended in a suit against the institution:
+
+| Total Acceptance Rate | Male Acceptance Rate | Female Acceptance Rate |
+|-----------------------|----------------------|------------------------|
+|         41%           |         44%          |            35%         |
+
+These numbers represent the acceptance into courses in the university.
+
+But there's more to the story. The university decided to investigate to put an end to the discrimination and rectify the problems. Here's what they found.
+
+> Examination of the disaggregated data reveals few decision-making units that show statistically significant departures from the expected frequencies of the female admissions.
+
+Big fancy words for, "Um, there doesn't seem to be a problem when you look at the raw data."
+
+They continue,
+> If the data are properly pooled taking into account hte autonomy of the department decision making, thus correcting for the tendency of women to apply to graduate departments that are more difficult for applicants of either sex. [[2]](#2)
+
+That's the cool part, here.  The women are actually seeking out the harder courses. Anecdotally, I'd think they are doing this because they have to prove themselves in society where males rule.
+
+But I think it's interesting the investigators didn't stop there.  They didn't end saying, "Nope, no discrimination here!" They went on to add.
+
+> The bias in the aggregated data stems not from any pattern of discrimination on the part of the admissions committees, which seem quite fair on the whole, but apparently from prior screening at earlier levels of the educational system.  Women are shunted by their socialization and education toward fields of graduate study that generally more crowded, less productive of completed degrees, and less well funded and that frequently offer poorer professional employment prospects. [[2]](#2)
+
+Ok, there's _lots_ to unpack here. But, I'll keep it light. 
+
+Let's note at least two of the three authors of this paper are men--the third member I couldn't find much on during my research-stalking.
+
+* [P. J. Bickel](https://bickel.stat.berkeley.edu)
+* [E. A. Hammel](https://anthropology.berkeley.edu/eugene-hammel)
+* J. W. O'Connell
+
+Next, I'm not sure, but it seems like they are stating women get the bottom of the barrel during undergraduate work because they're social beings? Which seems odd for a paper trying to demonstrate there's no bias in their university.  Anyway, don't want to get away from the main topic too much. Just thought it was interesting.
+
+In short, the Simpson's Paradox does exist in the admissions data as the raw number of females were attempting to get into more difficult departments--given application to a graduate department was exclusive--you can only apply to one--the denial of the rate of women was greater in these departments. However, other departments which weren't as hard to get into, fewer women applied to. This resulted in the _total_ number of females being accepted as a percentage of the whole being lower than men.  This could appear there was a gender bias, when comparing the percentage accepted.
+
+#### The median wage:
 > Since 2000, the median US wage has risen about 1%, adjusted for inflation. But over the same period, the median wage for:
 > * high school dropouts,
 > * high school graduates with no > * college education,
@@ -34,3 +72,6 @@ Attempting to help people think more critically about data, information, and how
 ## References
 <a id="1">[1]</a> 
 Smith, D. A great example of Simpson's Paradox: US median wage decline. Retrieved 09:56, June 20, 2021, from https://blog.revolutionanalytics.com/2013/07/a-great-example-of-simpsons-paradox.html
+
+<a id="2">[2]</a> 
+Sex Bias in Graduate Admissions: Data from Berkeley. Retrieved June 20, 2021, from https://homepage.stat.uiowa.edu/~mbognar/1030/Bickel-Berkeley.pdf

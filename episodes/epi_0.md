@@ -32,26 +32,20 @@ https://www.quora.com/Why-do-so-many-people-firmly-believe-a-daddy-long-leg-spid
 
 
 
-Empiricism and Ground Truth
+## Empiricism and Ground Truth
 
-Empiricism, often used by natural scientists, says that "knowledge is based on experience" and that "knowledge is tentative and probabilistic, subject to continued revision and falsification".[2] 
+Empiricism, often used by natural scientists, says that "knowledge is based on experience" and that "knowledge is tentative and probabilistic, subject to continued revision and falsification". [[2]](#2)
 
 Ground truth is a term used in various fields to refer to information that is known to be real or true, provided by direct observation and measurement (i.e. empirical evidence) as opposed to information provided by inference.
 
 
 So, what is the truth about the Daddy Longlegs?
 
-	https://www.britannica.com/animal/daddy-longlegs
+> Daddy longlegs,, also called harvestman, are any of more than 6,000 species of arachnids (class Arachnida) that are known for their extremely long and thin legs and for their compact bodies. Daddy longlegs are closely related to scorpions (order Scorpiones) but, because of their appearance, are often mistaken as spiders (order Araneida or Araneae). However, unlike true spiders, in which the body is divided into two distinct segments (the cephalothorax and the abdomen), daddy longlegs look as though they have only one segment, because of a broad fusion that makes the juncture between the two segments almost indiscernible. [[3]](#3)
 
-Daddy longlegs,, also called harvestman, are any of more than 6,000 species of arachnids (class Arachnida) that are known for their extremely long and thin legs and for their compact bodies. Daddy longlegs are closely related to scorpions (order Scorpiones) but, because of their appearance, are often mistaken as spiders (order Araneida or Araneae). However, unlike true spiders, in which the body is divided into two distinct segments (the cephalothorax and the abdomen), daddy longlegs look as though they have only one segment, because of a broad fusion that makes the juncture between the two segments almost indiscernible.
-
-Why does it matter?
-Story of getting a job in homeless services
-Broadening one’s experience helps them have ground truths by which to navigate the world--rather than a world full of misinformation.
-
-
-Closing
-List of common misconceptions
+## Why does it matter?
+* Story of getting a job in homeless services
+* Broadening one’s experience helps them have ground truths by which to navigate the world--rather than a world full of misinformation. Additional reading: [Broaden and Build model](https://www.verywellmind.com/broaden-and-build-theory-4845903).
 
 
 ## References
@@ -59,3 +53,6 @@ List of common misconceptions
 Wikipedia contributors. (2021, June 19). Cognitive dissonance. In Wikipedia, The Free Encyclopedia. Retrieved 15:03, June 20, 2021, from https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&oldid=1029331112
 <a id="2">[2]</a> 
 Wikipedia contributors. (2021, June 6). Empiricism. In Wikipedia, The Free Encyclopedia. Retrieved 15:05, June 20, 2021, from https://en.wikipedia.org/w/index.php?title=Empiricism&oldid=1027113089
+
+<a id="3">[3]</a> 
+Rogers, K. (2019, April 9). Daddy longlegs. Encyclopedia Britannica. https://www.britannica.com/animal/daddy-longlegs

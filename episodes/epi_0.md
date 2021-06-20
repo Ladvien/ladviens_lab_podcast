@@ -56,4 +56,4 @@ Wikipedia contributors. (2021, June 19). Cognitive dissonance. In Wikipedia, The
 Wikipedia contributors. (2021, June 6). Empiricism. In Wikipedia, The Free Encyclopedia. Retrieved 15:05, June 20, 2021, from https://en.wikipedia.org/w/index.php?title=Empiricism&oldid=1027113089
 
 <a id="3">[3]</a> 
-Rogers, K. (2019, April 9). Daddy longlegs. Encyclopedia Britannica. https://www.britannica.com/animal/daddy-longlegs
+Rogers, K. (2019, April 9). Daddy longlegs. Encyclopedia Britannica. Retrieved 15:05, June 20, 2021, from https://www.britannica.com/animal/daddy-longlegs

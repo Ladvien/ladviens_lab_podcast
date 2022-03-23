@@ -6,7 +6,9 @@ Each bit of advice will be given as a tip. E.g.,
 > Tip #10 -- sort your tools
 > 
 > Thomas: This is helpful for just about any type of work.  If you spend all of your time looking for tools.
+> 
 > ...
+> 
 > Clay: Yeah, I could see this applying to even my computer files...
 
 After some discussion, we move on to the next tip.

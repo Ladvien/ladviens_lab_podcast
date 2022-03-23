@@ -20,7 +20,7 @@ After some discussion, we move on to the next tip.
 
 ## First Episode Tips
 
-1. Binary Search (not as scary as it sounds)
+1. [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) (not as scary as it sounds)
 2. Learn some Python
 3. Cuss at the right time
 4. 
